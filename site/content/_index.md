@@ -1,20 +1,20 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Shitty New Construction Homes for Sale"
+subtitle: 'Toll Brothers Shitty "Luxury" Homes'
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why Toll Brothers?
+    text: "This is not something I can answer because they are shit"
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "What they offer"
+    text: "A false promise of a luxury home. Instead you will get a poorly built, over priced, lucky to even be level house."
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "Seriously Shit"
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "They offer a super basic house and exorbitant prices.  Want to have a fence around your house? Not included.  How about a patio heater you saw at the hardware store for $800.  No problem, just hand over $4k extra."
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: We want to take everyone for whatever they got and run. And if for some reason we can't actually provide a decent level of service? Have no fear, we will drag it out so long that your contract will expire and we can charge you more!
 ---
 
